@@ -45,6 +45,7 @@ Prueba tecnica realizada con la libreria de frontend React.js, para el backend s
 + Los formularios no cuentan con validaciones.
 + Guarda el avatar pero no lo muestra
 + Buscador no funciona
++ Se puede mejorar el almacenamiento de las imagenes, ahora se guarda en mongoDB pero se podria guardar en cloud didicados como por ejemplo Google storage
 
 
 ## Autor
