@@ -3,7 +3,7 @@ Prueba tecnica realizada con la libreria de frontend React.js, para el backend s
 
 # Imagenes del proyecto 
 ## Panel de usuario
-<img width="948" alt="Captura" src="https://user-images.githubusercontent.com/50926052/196549723-2c82b87d-b7bf-4a67-a05c-f86e5aadf2e4.png">
+<img width="948" alt="Captura" src="https://user-images.githubusercontent.com/50926052/196551159-0dc8e4b0-72e2-47ae-b5de-fc179f081181.png">
 
 ## Detalles del usuario
 <img width="948" alt="Captura" src="https://user-images.githubusercontent.com/50926052/196550014-307aa90c-3fb5-4e6a-b3c6-102a8ba9ad5d.png">
