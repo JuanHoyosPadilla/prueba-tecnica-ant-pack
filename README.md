@@ -1,6 +1,9 @@
 # prueba-tecnica-ant-pack
 Prueba tecnica realizada con la libreria de frontend React.js, para el backend se utilizo Node.js utilizando el framework express.js para realizar las peticiones y como base de datos se utilizo MongoDB.
 
+
+# EL PROYECTO NO ES RESPONSIVE
+
 # Imagenes del proyecto 
 ## Panel de usuario
 <img width="948" alt="Captura" src="https://user-images.githubusercontent.com/50926052/196551159-0dc8e4b0-72e2-47ae-b5de-fc179f081181.png">
@@ -18,7 +21,6 @@ Prueba tecnica realizada con la libreria de frontend React.js, para el backend s
 ## Formulario para actualizar los datos
 <img width="948" alt="Captura" src="https://user-images.githubusercontent.com/50926052/196550392-cdcd6b82-af64-4c4d-ac82-5de8aafcf51e.png">
 
-# EL PROYECTO NO ES RESPONSIVE
 
 
 ## Paquetes de instalacion
