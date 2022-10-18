@@ -7,6 +7,10 @@ Prueba tecnica realizada con la libreria de frontend React.js, para el backend s
 # Requerimientos
 + Tener instalado en el ordenador Node.js
 + Tener en el ordenador instalado MongoDB o si va a utilizar su cloud cambiar la URL 
+## Variables de entorno (crear el archivo .env)
++ PORT = 3001
++ URI = 'mongodb://localhost:27017/DBprueba'
+ 
 
 # Imagenes del proyecto 
 ## Panel de usuario
