@@ -18,7 +18,7 @@ Prueba tecnica realizada con la libreria de frontend React.js, para el backend s
 ## Formulario para actualizar los datos
 <img width="948" alt="Captura" src="https://user-images.githubusercontent.com/50926052/196550392-cdcd6b82-af64-4c4d-ac82-5de8aafcf51e.png">
 
-
+# EL PROYECTO NO ES RESPONSIVE
 
 
 ## Paquetes de instalacion
