@@ -4,6 +4,10 @@ Prueba tecnica realizada con la libreria de frontend React.js, para el backend s
 
 # EL PROYECTO NO ES RESPONSIVE
 
+# Requerimientos
++ Tener instalado en el ordenador Node.js
++ Tener en el ordenador instalado MongoDB o si va a utilizar su cloud cambiar la URL 
+
 # Imagenes del proyecto 
 ## Panel de usuario
 <img width="948" alt="Captura" src="https://user-images.githubusercontent.com/50926052/196551159-0dc8e4b0-72e2-47ae-b5de-fc179f081181.png">
