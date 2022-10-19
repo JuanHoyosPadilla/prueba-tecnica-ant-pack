@@ -4,6 +4,9 @@ Prueba tecnica realizada con la libreria de frontend React.js, para el backend s
 
 # EL PROYECTO NO ES RESPONSIVE
 
+## Diseño en Figma
+https://www.figma.com/file/qVMmO6xk5b7gKrlwpXECHs/PRUEBA-TECNICA-ant-pack?node-id=0%3A1
+
 # Requerimientos
 + Tener instalado en el ordenador Node.js
 + Tener en el ordenador instalado MongoDB o si va a utilizar su cloud cambiar la URL 
